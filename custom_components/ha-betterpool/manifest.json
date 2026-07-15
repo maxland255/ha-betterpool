@@ -1,0 +1,13 @@
+{
+  "domain": "ha-betterpool",
+  "name": "Better pool",
+  "codeowners": [
+    "@maxland255"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/maxland255/ha-betterpool",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/maxland255/ha-betterpool/issues",
+  "version": "0.1.0",
+  "requirements": []
+}
